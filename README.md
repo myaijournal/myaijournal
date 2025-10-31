@@ -1,6 +1,6 @@
 "Learning never exhausts the mind." — Leonardo da Vinci
 
-Hey there 👋! Welcome to my GitHub page. I'm thrilled to have you here. I'm Surya, a Data Science enthusiast with a passion for exploring AI. I’m always excited about pushing the boundaries of what's possible in AI and data science.
+Hey there 👋! Welcome to my GitHub page. I'm thrilled to have you here. I'm Surya, a Data Science Engineer with a passion for exploring AI. I’m always excited about pushing the boundaries of what's possible in AI and data science.
 
 I have a deep love for advanced machine learning techniques and data-centric solutions. Currently, I’m learning how to leverage cutting-edge large language models (LLMs) and generative AI (Gen AI) to solve complex real-world problems. My goal is to use these technologies to tackle challenges and make a positive impact.
 
